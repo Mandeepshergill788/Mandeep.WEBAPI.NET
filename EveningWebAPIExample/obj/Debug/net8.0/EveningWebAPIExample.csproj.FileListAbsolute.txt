@@ -1,0 +1,64 @@
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\appsettings.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.exe
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.deps.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.runtimeconfig.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.pdb
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.AssemblyReference.cache
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.AssemblyInfoInputs.cache
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.AssemblyInfo.cs
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.CoreCompileInputs.cache
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.EveningWebAPIExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.build.EveningWebAPIExample.props
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EveningWebAPIExample.props
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EveningWebAPIExample.props
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\scopedcss\bundle\EveningWebAPIExample.styles.css
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.CopyComplete
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\refint\EveningWebAPIExample.dll
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.pdb
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.genruntimeconfig.cache
+C:\Users\wesam\Downloads\EveningClassExampleASP.NETAPI-main (1)\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\ref\EveningWebAPIExample.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.AssemblyReference.cache
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.AssemblyInfoInputs.cache
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.AssemblyInfo.cs
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.CoreCompileInputs.cache
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\appsettings.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.exe
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.deps.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.runtimeconfig.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\EveningWebAPIExample.pdb
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.EveningWebAPIExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.build.EveningWebAPIExample.props
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EveningWebAPIExample.props
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EveningWebAPIExample.props
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\scopedcss\bundle\EveningWebAPIExample.styles.css
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.csproj.CopyComplete
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\refint\EveningWebAPIExample.dll
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.pdb
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\EveningWebAPIExample.genruntimeconfig.cache
+C:\Users\bepri\OneDrive\Desktop\C# Development EV 2023\EveningClassExampleASP.NETAPI-main\EveningWebAPIExample\EveningWebAPIExample\obj\Debug\net8.0\ref\EveningWebAPIExample.dll

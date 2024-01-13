@@ -1,0 +1,6 @@
+@EveningWebAPIExample_HostAddress = http://localhost:5179
+
+GET {{EveningWebAPIExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
